@@ -1,1 +1,2 @@
 print("my first repostory");
+Cambio 1:puse el print y también aprendí a hacer un commint.
